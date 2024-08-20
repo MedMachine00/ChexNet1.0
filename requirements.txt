@@ -1,0 +1,10 @@
+transformers
+numpy
+tensorflow
+keras
+gradio
+pillow
+matplotlib
+scipy
+opencv-python
+scikit-image
